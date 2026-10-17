@@ -1,4 +1,4 @@
-# REST Assured API Automation Framework
+# REST_Assured_Framework
 
 This project is a production-ready REST API automation framework built with Java 21, Rest Assured, TestNG, Gradle, JWT-aware authentication handling, and Extent Reports.
 
